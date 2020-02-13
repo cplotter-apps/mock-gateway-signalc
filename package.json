@@ -1,0 +1,26 @@
+{
+  "name": "mock-gateway-signalc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cplotter-apps/mock-gateway-signalc.git"
+  },
+  "keywords": [
+    "signalc",
+    "cplotter"
+  ],
+  "author": "Cplotter Team",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cplotter-apps/mock-gateway-signalc/issues"
+  },
+  "homepage": "https://github.com/cplotter-apps/mock-gateway-signalc#readme",
+  "dependencies": {
+    "gateway-signalc": "^1.0.3"
+  }
+}
